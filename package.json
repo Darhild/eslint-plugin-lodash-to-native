@@ -24,11 +24,13 @@
   "bugs": {
     "url": "https://github.com/Darhild/eslint-plugin-lodash-to-native/issues"
   },
-  "devDependencies": {
-    "eslint": "^6.4.0",
+  "devDependencies": {    
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.18.2",
     "mocha": "^3.1.2"
   },
-  "homepage": "https://github.com/Darhild/eslint-plugin-lodash-to-native#readme"
+  "homepage": "https://github.com/Darhild/eslint-plugin-lodash-to-native#readme",
+  "dependencies": {
+    "eslint": "^6.4.0"
+  }
 }
