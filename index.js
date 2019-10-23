@@ -5,6 +5,6 @@
 
 module.exports = {
   rules: {
-    'lodash-to-native/map': require('./lib/rules/map'),
+    map: require('./lib/rules/map'),
   },
 };
